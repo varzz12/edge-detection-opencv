@@ -49,8 +49,8 @@ Display all edge-detected images for comparison.
 
 ## Developed By
 
-- **Name:** ____________________________  
-- **Register No:** ______________________  
+- **Name:** VARUNA R
+- **Register No:** 212225040483
 
 ---
 
